@@ -3,7 +3,7 @@
   <img src="images/header.jpg" width="100%" alt="anaclarays Banner"/>
 </a>
   
-<br> <br>
+<br>
 
 <!-- animação inicial -->
 <p align="center">
@@ -17,15 +17,17 @@
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
 <!-- imagem lateral-->
-<img src="images/lateral1.png" width="210" align="left" style="margin-right: 15px;">
+<img src="images/time.png" width="210" align="left" style="margin-right: 15px;">
 
 <!-- resumo/apresentação -->
 <div align="justify">
-  <h3>Olá,</h3>
-  Texto descritivo aqui
-  <br><br>
-  
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+  <h3>Hey,</h3>
+  I am an undergraduate student in Information Systems, with an interest in Software Engineering and a passion for Computer Science, creating digital solutions through coding, design, and critical thinking.
+
+  <br> 
+
+  When I’m not studying, you’ll find me expanding my horizons — whether through books or movies — but always open to new perspectives.
+  <br>
   
 </div>
 
@@ -52,13 +54,19 @@
   <!--add link para o e-mail -->
   <a href="mailto:anaclarabizarria8@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
+  <!-- add link para o lattes -->
+  <a href="http://lattes.cnpq.br/1950946818717842">
+  <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=readthedocs&logoColor=EAEAEA"/>
+</a>
+  &nbsp;
+  <!-- add link do discord -->
+  <a href="https://discord.com/users/anaclarays">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=EAEAEA"/>
+</a>
+  &nbsp;
   <!--add link do currículo -->
   <!-- <a href="COLOCAR LINK DO CURRÍCULO DO DRIVE AQUI"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a> -->
 </div>
-
-<br>
-
-> txto aqui
 
 <br clear="right"/>
 <br>
