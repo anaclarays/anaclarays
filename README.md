@@ -3,7 +3,7 @@
   <img src="images/header.jpg" width="100%" alt="anaclarays Banner"/>
 </a>
   
-<br>
+<br> <br>
 
 <!-- animação inicial -->
 <p align="center">
@@ -33,10 +33,15 @@
 <br clear="left"/>
 <br clear="right"/>
 
+<!-- add linha -->
+<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+
+<!-- conexões -->
 <div align="center">
-  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%"">
-  <br>
-   
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=EAEAEA&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Connect+with+me"
+    alt="Connect with me"
+  />
   <br>
   <!--add link do github -->
   <a href="https://github.com/anaclarays"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -55,17 +60,17 @@
 
 > txto aqui
 
-> texto aqui
-
 <br clear="right"/>
 <br>
 
-<br><br>
+<!-- add linha -->
+<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
 <div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
-  <br>
-  <br>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=EAEAEA&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Tech+Stacks"
+    alt= "Tech Stacks"
+  />
   <br>
 
   <table align="center" style="background: transparent; border: none;">
@@ -88,9 +93,10 @@
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -102,6 +108,7 @@
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
         <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=EAEAEA">
       </td>
     </tr>
   </table>
