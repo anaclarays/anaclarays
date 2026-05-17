@@ -8,7 +8,7 @@
 <!-- animação inicial -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=48&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ana+Clara;and+this+is+my+design."
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=48&duration=4000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ana+Clara;and+this+is+my+design."
     alt="Typing SVG"
   />
 </p>
@@ -27,10 +27,8 @@
   <br> 
 
   When I’m not studying, you’ll find me expanding my horizons — whether through books or movies — but always open to new perspectives.
-  <br>
   
 </div>
-
 
 <br clear="left"/>
 <br clear="right"/>
@@ -41,7 +39,7 @@
 <!-- conexões -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=EAEAEA&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Connect+with+me"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=6E6E6E&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Connect+with+me"
     alt="Connect with me"
   />
   <br>
@@ -76,7 +74,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=EAEAEA&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Tech+Stacks"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=38&duration=1&pause=999999&color=6E6E6E&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Tech+Stacks"
     alt= "Tech Stacks"
   />
   <br>
