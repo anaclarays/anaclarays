@@ -47,23 +47,20 @@
   <a href="https://github.com/anaclarays"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=BFBFBF"></a>
   &nbsp;
   <!--add link do linkedIn -->
-  <a href="https://www.linkedin.com/in/anaclarabizarria/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anaclarabizarria/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=BFBFBF"></a>
   &nbsp;
   <!--add link para o e-mail -->
-  <a href="mailto:anaclarabizarria8@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:anaclarabizarria8@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=BFBFBF"></a>
   &nbsp;
   <!-- add link para o lattes -->
   <a href="http://lattes.cnpq.br/1950946818717842">
-  <img src="https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=readthedocs&logoColor=EAEAEA"/>
+  <img src="https://img.shields.io/badge/Lattes-1A1A1A?style=for-the-badge&logo=readthedocs&logoColor=BFBFBF"/>
 </a>
   &nbsp;
   <!-- add link do discord -->
   <a href="https://discord.com/users/anaclarays">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=EAEAEA"/>
+  <img src="https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=BFBFBF"/>
 </a>
-  &nbsp;
-  <!--add link do currículo -->
-  <!-- <a href="COLOCAR LINK DO CURRÍCULO DO DRIVE AQUI"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a> -->
 </div>
 
 <br clear="right"/>
@@ -85,11 +82,11 @@
         <strong>Frontend</strong>
       </td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/React.js-1A1A1A?style=for-the-badge&logo=react&logoColor=BFBFBF">
+        <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=BFBFBF">
+        <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=BFBFBF">
+        <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=BFBFBF">
+        <img src="https://img.shields.io/badge/Vite-1A1A1A?style=for-the-badge&logo=vite&logoColor=BFBFBF">
       </td>
     </tr>
     <tr>
