@@ -16,7 +16,7 @@
 <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 
 <!-- imagem lateral-->
-<img src="images/time.png" width="210" align="left" style="margin-right: 15px;">
+<img src="images/bird.png" width="210" align="left" style="margin-right: 15px;">
 
 <!-- resumo/apresentação -->
 <div align="justify">
