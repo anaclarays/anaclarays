@@ -7,7 +7,7 @@
 <p align="center">
   <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=48&duration=4000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ana+Clara;and+this+is+my+design."
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=48&duration=4000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Ana+Clara;welcome+to+my+github."
     alt="Typing SVG"
   />
 </p>
@@ -22,7 +22,7 @@
 <div align="justify">
   <h3>Hey,</h3>
   I am an undergraduate student in Information Systems, with an interest in Software Engineering and a passion for Computer Science, creating digital solutions through coding, design, and critical thinking. <br><br>
-  When I’m not studying, you’ll find me expanding my horizons — whether through books or movies — but always open to new perspectives.
+  Beyond tech, I am an avid reader and movie enthusiast, always seeking new perspectives to broaden my horizon and fuel my creativity.
   
 </div>
 
